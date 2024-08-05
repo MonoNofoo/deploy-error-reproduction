@@ -1,6 +1,9 @@
+'use client';
+
 import serverActionFunction from "@/app/_server-action/serverActionFunction";
 
 export default function Home() {
+  const handleClick = () => {}
   return (
     <main>
       <p>server action error</p>
